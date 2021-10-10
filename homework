@@ -1,4 +1,4 @@
--- Homework question number 1
+-- Homework question number 1 home work
 -- Query to find how many actors have the last name "Wahlberg"
 SELECT COUNT(last_name) FROM actor WHERE last_name = 'Wahlberg';
 -- answer = 2
